@@ -87,7 +87,7 @@ The extension has been tested with:
 
 - **3D Slicer 5.10.0**
 - **Python >= 3.10**
-- **thigh-us-segmentation >= 0.2.5**
+- **thigh-us-segmentation >= 0.2.7**
 - **nnU-Net v2 2.6.4**
 
 Additional Python dependencies, including OpenCV and nnU-Net, are installed through the `thigh-us-segmentation` Python package.

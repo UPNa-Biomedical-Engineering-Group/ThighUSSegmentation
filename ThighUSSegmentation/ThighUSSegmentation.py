@@ -342,7 +342,7 @@ class SlicerLogWriter:
 
 class ThighUSSegmentationLogic(ScriptedLoadableModuleLogic):
 
-    PACKAGE_MIN_VERSION = "0.2.5"
+    PACKAGE_MIN_VERSION = "0.2.7"
     PACKAGE_SPEC = f"thigh-us-segmentation>={PACKAGE_MIN_VERSION}"
     PACKAGE_DISTRIBUTION_NAME = "thigh-us-segmentation"
     PACKAGE_IMPORT_NAME = "ThighUSSegmentation"
